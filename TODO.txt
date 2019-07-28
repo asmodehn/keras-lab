@@ -1,0 +1,5 @@
+TODO list for easy Lab setup with gryphon
+
+Gryphon :
+- sqlite for collecting data easily (no installation steps, just import)
+- jupyter kernel running strategy without calling gryphon-exec (howto ? maybe no harness ?)
